@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Project 1</title>
+</head>
+
+<body>
+<body>
+    <header>
+	<img src="images/leagueoflegends.jpg" alt="League of Legends Logo" width="250" height="138" title="League of Legends Logo">
+	<h1 style="text-align:center;">League of Legends Fan Site</h1>
+    </header>
+
+    <nav>
+	<a href="default.htm">Home</a> - <a href="page1.htm">How to Play (video)</a> - 
+	<a href="page2.htm">Lore (audio)</a> - <a href="page3.htm">Esports (image)</a> - 
+	<a href="../home.htm">Back to the course homepage</a>
+    </nav>
+
+    <main>
+	<h2>How to Play League of Legends</h2>
+	<p> On Summoners Rift, the map that League is played on, there are 3 lanes Top lane, Mid Lane, and Bot lane. The center of the 
+map is divided by a river, and everything in between contains the jungle. Every lane has an outer tower, followed by an inner tower, 
+followed by an Inhib tower, then an inhibitor, and finally 2 nexus towers guarding the Nexus. You and your team mates have to 
+destroy enemy towers to gain access to their base, and ultimatly their nexus. At the start of the game you and your team spawn in 
+your fountain at the back of your base, here you can buy items with gold you acquire as well as heal and restore your mana. You start
+the game at level 1 and 500 gold to buy a starting item. As you play the game you get experience to level up, and gold to buy more items
+in order to become stronger. You gather gold and experience buy killing minions, slaying enemy champions, destroying towers, or killing
+monsters in the jungle. Minions automaticaly spawn for each team at their nexus and march down every lane to help seige towers. If your
+team destroys an enemy inhibitor than super minions will spawn into that lane helping you sige into their base. In the river
+
+</p>
+
+<h3>The Five Roles</h3>
+
+<ul>
+  <li><b>Top Lane</b></li>
+	<p>Top Lane is the most isolated lane with a big focus on 1 verse 1 against their lane opponent. The
+traditional top lane champions include tanks, fighters, and duelists.</p>
+  <li><b>Jungle</b></li>
+	<p>The Jungle is perhaps the most unique role, because they are the only role whose primary gold and 
+experience comes from the camps in the jungle, rather than the minions in lane. The traditional jungle champions
+include tanks, assassins, and fighter.</p>
+  <li><b>Mid Lane</b></li>
+	<p>Mid lane is one of the primary carry positions. Mid laners usually play high damage champions that
+can win teamfights or duels,but they a high risk of dying because they are less mobile and have less health. 
+The traditionally mid lane champions include mages, or assassins.</p>
+  <li><b>ADC</b></li>
+	<p>ADC stands for Attack Damage Carry. ADC's are the bot laners who are the other primary carry like mid
+laners. ADC's are traditonaly the least unique in champion type because they are all ranged marksmen who like mid
+laners have very high damage, but are very easy to kill.</p>
+  <li><b>Support</b></li>
+	<p>Supports are also in the botlane with the ADC making botlane the only lane with two players. Their job is
+what you think, to support. They help their ADC get kills to make them strong, and help them avoid death from the 
+enemies. However supports help everyone on their team, and are just as important as an other role. The traditional
+support champions include casters, mages, and tanks.</p>
+</ul>
+
+<h3>Tutorial Video</h3>
+<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/0uyLRPmmYPk" style="border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+    </main>
+
+    <footer>
+	<p>This site is for educational purposes only.</p>
+    </footer>
+
+</body>
+</html>

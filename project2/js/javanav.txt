@@ -1,0 +1,1 @@
+document.write("<div style='text-align:center;'>");document.write("<a href="default.htm">Home</a> - <a href="page1.htm">How to Play (video)</a> - 	<a href="page2.htm">Lore (audio)</a> - <a href="page3.htm">Esports (image)</a> - 	<a href="../home.htm">Back to the course homepage</a>");document.write("</div>");

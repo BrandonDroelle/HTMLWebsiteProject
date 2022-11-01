@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Project 1</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+	<h1 style="text-align:center;">League of Legends Esports</h1>
+    </header>
+
+    <nav>
+	<a href="default.htm">Home</a> - <a href="page1.htm">How to Play (video)</a> - 
+	<a href="page2.htm">Lore (audio)</a> - <a href="page3.htm">Esports (image)</a> - 
+	<a href="../home.htm">Back to the course homepage</a>
+    </nav>
+
+    <main>
+	<h2>League of Legends Esports</h2>
+<p>
+League of Legends is the biggest Esport in the world. For ten consecuative years League has been hosting
+tournaments around the world for fans to watch. In League of Legends there are two major international 
+tournaments a year, MSI, or Mid Season Invitational, and Worlds. MSI takes place half way through the year every
+summer, hense why it's called mid season, and Worlds takes place and the end of the year in October. The four
+main regions North America, Europe, Korea, and China all send their best teams to compete based on the winners
+of each regions seasonal tournament, in addition other smaller regions, like Brazil, Turkey, Oceania, or Japan 
+each have a shot of fighting for the few remaining spots in the tournament. These events are huge worldwide.
+Hundreds of Millions watch from home, and stadiums like Staples Center, and Beijing Nation Stadium get sold out.
+The prize pool at Worlds is millions of dollars.
+</p>
+
+<img src="images/cup.jpg" alt="Worlds Trophy" width="250" height="140" title="Worlds Trophy">
+
+<h3>My Favorite Team
+100 Theives</h3>
+
+<img src="images/100theives.jpg" alt="100 Theives Logo" width="250" height="187" title="100 Theives Logo">
+
+<p>
+My Favorite Team is 100 Thieves. They are in the North America region. Recently They finished third in the 
+standings at the end of the spring split, the first of two seasons every year. But unfortunatly they got 
+eliminated in playoffs to TSM.
+</p>
+
+
+    </main>
+
+    <footer>
+	<p>This site is for educational purposes only.</p>
+    </footer>
+
+</body>
+</html>

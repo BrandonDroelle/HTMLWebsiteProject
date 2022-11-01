@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Paris, France</title>
+</head>
+<body>
+<hr>
+<h1 style="text-align:center;">Paris, France Pictures</h1>
+<hr>
+<i>
+<a href="multimediafun.htm">Retrun to Main Assignment Page</a>
+</i>
+<hr>
+<div style="text-align:center;">
+  <table style="margin:auto; border:1px solid #000;">
+    <tr>
+      <td><img src="images/paris1.jpg" alt="paris1" title="paris1" height="250" width="250"></td>
+      <td><img src="images/paris2.jpg" alt="paris2" title="paris2" height="137" width="250"></td>
+    </tr>
+    <tr>
+      <td><img src="images/paris3.jpg" alt="paris3" title="paris3" height="250" width="250"></td>
+      <td><img src="images/paris4.jpg" alt="paris4" title="paris4" height="185" width="250"></td>
+    </tr>
+  </table>
+</div>
+
+
+<p>
+<a href="https://validator.w3.org/check?uri=referer" title="HTML5 Validation">HTML5 Validation</a>
+<p>
+</body>
+</html>
